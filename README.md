@@ -1,5 +1,6 @@
 # github-final-project
 The github final project for Coursera's course on Git &amp; Github
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
